@@ -1,0 +1,12 @@
+===== STUDENT SKILL DATA =====
+Python : 55/100
+Java : 75/100
+DSA : 30/100
+SQL : 40/100
+Machine Learning : 60/100
+Statistics : 35/100
+Data Analysis : 40/100
+Web Development : 55/100
+Cybersecurity : 75/100
+Cloud Computing : 20/100
+==============================
